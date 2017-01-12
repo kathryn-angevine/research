@@ -25,10 +25,10 @@ switch workSheetDetail(1).DataType
     case 2
         
         % Project Arrival ~ Pois + Draw projects 
-        % Project in each week > Summarize SKUs and draw like before > How to keep track of projects realized? > Substract projects consecutively and kepp track if not enough SKUs on hand 
-        
+       
           
-        
+        % My changes are here, I also deleted a comment above
+        % Commit to change name
         
         
 end
