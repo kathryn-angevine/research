@@ -1,0 +1,30 @@
+
+% Commands only work when you in the directory of your repository %
+
+git clone [Repository URL] 	> pull reposatory in
+
+git pull 			> pulls changes from repository
+git status 			> shows what different from what we have and what is on github
+git add [file name] 		> add changes or new files to reposatory 
+git add -A 			> add all files to repository 
+git commit -m "message" 	> commit to changes plus write a message (but not yet synced)
+git push 			> syn everything from local machine to github
+
+git branch			> see all branches
+git branch [branch name]	> create a branch (copies files from master branch)
+
+git checkout [branch name]	> switch to the designated branch
+git merge [branch name]
+
+big commit message > hit 'esc :wq'
+
+Video 1: https://www.youtube.com/watch?v=0fKg7e37bQE
+Video 2: https://www.youtube.com/watch?v=oFYyTZwMyAg
+
+
+Workflow: 
+1. Pull changes
+2. Make changes
+3. Add changes
+4. Commit to changes
+5. Push changes
